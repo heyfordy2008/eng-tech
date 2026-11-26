@@ -18,3 +18,9 @@ header {
 h1 {
   color: navy;
 }
+
+nav a {
+  margin: 0 10px;
+  color: navy;
+  text-decoration: none;
+}
