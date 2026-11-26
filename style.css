@@ -5,3 +5,7 @@ body {
   color: hsl(0, 0%, 4%);
   line-height: 1.6;
 }
+
+header {
+  text-align: center;
+}
